@@ -1,10 +1,16 @@
 # restaurant
 All the employees take orders from customers from the menu given below:
+
 Item Rate (in Rs.)
+
 Tea - 10
+
 Coffee - 10
+
 Samosa - 15
+
 Cake - 15
+
 
 For simplicity, we have assumed that each customer orders only category of
 items from the menu i.e. if a customer orders Cake, then he can buy as many
